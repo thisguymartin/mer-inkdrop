@@ -2,6 +2,7 @@
 
 A CLI tool that generates rendered Mermaid flow diagram images for GitHub PRs. Instead of embedding raw Mermaid code blocks in PR descriptions, `mer-inkdrop` encodes diagrams and returns a `mermaid.ink` hosted image URL — ready to paste as a markdown image tag.
 
+![Flow Diagram](https://mermaid.ink/img/pako:eNpNkc1ugzAQhF9l5UNOTR-AQ6oE8kOaqFWanFwOVrwhVv2DjBGVgHevvCDRk-X9xrMzcsfuTiJLWOlF9YRr9m0B1jy3VRMSqINUFpyHgL8hng-lsYDlcgUbnp5yqISvce3LuojvNkTS7ss1_o5vQ5ylcdbT-4cWZQ8Zz61WFsmzmCUqrpw0W35BIeHVGDmunGUUqYfdqKAb0QwWsIUF7CjDnl-9MmDQG6Fk6uRosSd44Ghj6_NIiRyI5LzEMI1vXhPJiRy7jybEgMbJqdmR8hjhf6RrbQ_v_NMrG0AZUSIEURazqvG6h9Mk8KKF2-X0D7vRO1bt4cwz11rthBytCvbCpiIs6Vh4ookfJvEhGh3YMPwBcxWUDA==)
 
 ## Install
 
